@@ -6,11 +6,12 @@
 ## 🌟 Features
 
 
-### API Integration
+### 🔑 API Integration.
 - 🔄 Using TinyMCE which is a rich-text editor that allows users to create formatted content within a user-friendly interface.
-
-### Easy post creation and editing
-
+### 🔒 User authentication system for secure login.
+### ✍️ Easy post creation and editing.
+### 💻 Backend as a Service (BaaS) for efficient data management.
+- Used Appwrite's API Service for backend.
 ### Responsive Design
 
 ## 🚀 Get Started
