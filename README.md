@@ -1,6 +1,6 @@
 
 <h1 align="center">BLOG WEBSITE!</h1>
-<h2 align="center">Welcome to my awesome blog project! This project is designed to create a simple yet elegant platform for sharing thoughts, ideas, and experiences through blog posts.💪🩺</h2>
+<h2 align="center">Welcome to my awesome blog project! This project is designed to create a simple yet elegant platform for sharing thoughts, ideas, and experiences through blog posts.💪</h2>
 
 
 ## 🌟 Features
