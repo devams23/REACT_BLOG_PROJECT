@@ -14,5 +14,3 @@
 ### Responsive Design
 
 ## 🚀 Get Started
-
-Get started with CareIt today and embark on a journey towards better health and well-being! 🌟
